@@ -1,0 +1,35 @@
+.all{
+  margin-top: 50px;
+}
+  .float-left{
+    float: left;
+    margin-left: 45px;
+  }
+  .float-right{
+    float: right;
+    margin-right: 45px;
+  }
+  h1.temperatura{
+    text-align: right;
+    width: 50%;
+    float: left;
+    padding: 0;
+    display: inline;
+  }
+  h2.unidade{
+    text-align: left;
+    float: right;
+    width: 50%;
+    color: blue;
+  }
+  .icone{
+    text-align: center
+  }
+  div.cidade{
+    display: -webkit-inline-box
+  }
+  p.quote{
+    margin-top: 15px;
+    display: inline;
+    font-size: 18px;
+  }
